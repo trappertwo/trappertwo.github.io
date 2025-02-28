@@ -1,5 +1,5 @@
 ## Detecting Depression using Speech Processing
 
-![cover image](/images/Pranav and Farhan Poster COPY.pdf)
+![cover image](/images/cosmos-copy.png)
 
 hi
